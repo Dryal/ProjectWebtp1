@@ -7,11 +7,21 @@ h3{
 h1{
     color: blueviolet;
     font-size: 60px;
+    text-shadow: 2px 2px rgb(0, 0, 0);
+    font-weight: lighter;
+    bottom: 0;
 }
 h2{
-    color: yellowgreen;
+    color: rgb(50, 171, 205);
     font-weight: bold;
     font-size: xx-large;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    text-decoration:dashed;
+    text-shadow: 2px 2px rgb(10, 0, 0);
+    text-indent: 0px; /* this moves forward or backwards*/
+    
 }
 p
 {
